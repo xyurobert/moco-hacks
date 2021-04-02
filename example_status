@@ -1,0 +1,212 @@
+{
+   "created_at": "Wed Mar 17 16:53:45 +0000 2021",
+   "id": 1372229681869639685,
+   "id_str": "1372229681869639685",
+   "text": "RT @yunyu_l: Super excited to announce our seed round and more of what we’ve been working on over the past year!\nhttps://t.co/zSC1HSx50Q",
+   "truncated": false,
+   "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+         {
+            "screen_name": "yunyu_l",
+            "name": "Yunyu Lin",
+            "id": 1077393664593121280,
+            "id_str": "1077393664593121280",
+            "indices": [
+               3,
+               11
+            ]
+         }
+      ],
+      "urls": [
+         {
+            "url": "https://t.co/zSC1HSx50Q",
+            "expanded_url": "https://techcrunch.com/2021/03/17/cohere-raises-3-1-million-for-its-remote-control-solution-for-web-apps/",
+            "display_url": "techcrunch.com/2021/03/17/coh…",
+            "indices": [
+               113,
+               136
+            ]
+         }
+      ]
+   },
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App<\/a>",
+   "in_reply_to_status_id": "None",
+   "in_reply_to_status_id_str": "None",
+   "in_reply_to_user_id": "None",
+   "in_reply_to_user_id_str": "None",
+   "in_reply_to_screen_name": "None",
+   "user": {
+      "id": 368675631,
+      "id_str": "368675631",
+      "name": "Glenn Ren",
+      "screen_name": "glennren",
+      "location": "cole field house",
+      "description": "seeking truth | CS + Stat @ Maryland | @contrarycapital",
+      "url": "https://t.co/s1cYvkaZh2",
+      "entities": {
+         "url": {
+            "urls": [
+               {
+                  "url": "https://t.co/s1cYvkaZh2",
+                  "expanded_url": "http://glennren.com/",
+                  "display_url": "glennren.com",
+                  "indices": [
+                     0,
+                     23
+                  ]
+               }
+            ]
+         },
+         "description": {
+            "urls": []
+         }
+      },
+      "protected": false,
+      "followers_count": 448,
+      "friends_count": 790,
+      "listed_count": 10,
+      "created_at": "Tue Sep 06 01:32:48 +0000 2011",
+      "favourites_count": 7295,
+      "utc_offset": "None",
+      "time_zone": "None",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5163,
+      "lang": "None",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1245220446930419718/x-w118X4_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245220446930419718/x-w118X4_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "None"
+   },
+   "geo": "None",
+   "coordinates": "None",
+   "place": "None",
+   "contributors": "None",
+   "retweeted_status": {
+      "created_at": "Wed Mar 17 13:47:37 +0000 2021",
+      "id": 1372182837764448261,
+      "id_str": "1372182837764448261",
+      "text": "Super excited to announce our seed round and more of what we’ve been working on over the past year!\nhttps://t.co/zSC1HSx50Q",
+      "truncated": false,
+      "entities": {
+         "hashtags": [],
+         "symbols": [],
+         "user_mentions": [],
+         "urls": [
+            {
+               "url": "https://t.co/zSC1HSx50Q",
+               "expanded_url": "https://techcrunch.com/2021/03/17/cohere-raises-3-1-million-for-its-remote-control-solution-for-web-apps/",
+               "display_url": "techcrunch.com/2021/03/17/coh…",
+               "indices": [
+                  100,
+                  123
+               ]
+            }
+         ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App<\/a>",
+      "in_reply_to_status_id": "None",
+      "in_reply_to_status_id_str": "None",
+      "in_reply_to_user_id": "None",
+      "in_reply_to_user_id_str": "None",
+      "in_reply_to_screen_name": "None",
+      "user": {
+         "id": 1077393664593121280,
+         "id_str": "1077393664593121280",
+         "name": "Yunyu Lin",
+         "screen_name": "yunyu_l",
+         "location": "New York, NY",
+         "description": "Cofounder + button presser @coherehq\nPrev @tryramp @nurobots @facebook",
+         "url": "https://t.co/OkOOFobeeV",
+         "entities": {
+            "url": {
+               "urls": [
+                  {
+                     "url": "https://t.co/OkOOFobeeV",
+                     "expanded_url": "https://yunyul.in/",
+                     "display_url": "yunyul.in",
+                     "indices": [
+                        0,
+                        23
+                     ]
+                  }
+               ]
+            },
+            "description": {
+               "urls": []
+            }
+         },
+         "protected": false,
+         "followers_count": 185,
+         "friends_count": 112,
+         "listed_count": 3,
+         "created_at": "Tue Dec 25 02:40:41 +0000 2018",
+         "favourites_count": 408,
+         "utc_offset": "None",
+         "time_zone": "None",
+         "geo_enabled": false,
+         "verified": false,
+         "statuses_count": 52,
+         "lang": "None",
+         "contributors_enabled": false,
+         "is_translator": false,
+         "is_translation_enabled": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": "None",
+         "profile_background_image_url_https": "None",
+         "profile_background_tile": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/1358611305503088642/oKW8bdke_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1358611305503088642/oKW8bdke_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1077393664593121280/1612754353",
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "has_extended_profile": false,
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": true,
+         "follow_request_sent": false,
+         "notifications": false,
+         "translator_type": "None"
+      },
+      "geo": "None",
+      "coordinates": "None",
+      "place": "None",
+      "contributors": "None",
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 121,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+   },
+   "is_quote_status": false,
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "favorited": true,
+   "retweeted": true,
+   "possibly_sensitive": false,
+   "lang": "en"
+}

@@ -1,0 +1,52 @@
+.title{
+    text-align: center;
+    margin:50px;
+}
+.tweet-carousel{
+    max-width:50%;
+    max-height:50%;
+    margin: auto;
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='#1DA1F2' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='#1DA1F2' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+.carousel-item{
+    padding-left:200px;
+    padding-right:200px;
+}
+
+.delete-btns{
+    margin-top:50px;
+}
+.button-del{
+
+    background-color: #1DA1F2;
+    color: white;
+    border-radius:15px;
+    border: none;
+    padding: 10px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    }
+
+.button-del:hover {
+    opacity:.75;
+}
+
+.home{
+    margin:100px;
+}
+.home a{
+    color: white;
+    text-decoration: none;
+}
