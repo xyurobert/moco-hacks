@@ -7,8 +7,8 @@ app = Flask(__name__)
 CORS(app)
 app.secret_key = "supersekrit"
 blueprint = make_twitter_blueprint(
-    api_key="byEBbmGLc4scB59ZoG4Lszzc0",
-    api_secret="271bxFZc4CFU7HRVYsCfQT7q4UfodM4eA20co9lDVY2hvCfNzp",
+    api_key="(removed)",
+    api_secret="(removed)",
     redirect_url="/tweets"
 )
 app.register_blueprint(blueprint, url_prefix="/login")
